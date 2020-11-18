@@ -5,6 +5,7 @@ import { Provider } from 'react-redux';
 import { createStore, combineReducers } from 'redux';
 
 // internal modules
+//Test push
 import App from './components/app';
 import '../assets/stylesheets/application.scss';
 
